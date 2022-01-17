@@ -1,0 +1,104 @@
+@charset "UTF-8";
+/*!
+ * HarmonyOS Fonts v1.0.0 by IKKI - https://github.com/IKKI2000/
+ * Copyright 2021-2022 IKKI
+ * Released under the MIT License - https://ikki2000.github.io/harmonyos-fonts/LICENSE
+ */
+
+/* CSS for HarmonyOS Sans SC | Written by IKKI | 2022-01-12 */
+
+/* Simplified Chinese */
+
+/* Thin */
+@font-face {
+    font-family: 'HarmonyOS Sans SC';
+    src: url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Thin.eot');
+    src: url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Thin.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Thin.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Thin.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Thin.svg#HarmonyOS_Sans_SC_Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Light */
+@font-face {
+    font-family: 'HarmonyOS Sans SC';
+    src: url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Light.eot');
+    src: url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Light.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Light.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Light.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Light.svg#HarmonyOS_Sans_SC_Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Regular */
+@font-face {
+    font-family: 'HarmonyOS Sans SC';
+    src: url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Regular.eot');
+    src: url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Regular.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Regular.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Regular.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Regular.svg#HarmonyOS_Sans_SC') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Medium */
+@font-face {
+    font-family: 'HarmonyOS Sans SC';
+    src: url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Medium.eot');
+    src: url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Medium.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Medium.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Medium.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Medium.svg#HarmonyOS_Sans_SC_Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Bold */
+@font-face {
+    font-family: 'HarmonyOS Sans SC';
+    src: url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Bold.eot');
+    src: url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Bold.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Bold.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Bold.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Bold.svg#HarmonyOS_Sans_SC_Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Black */
+@font-face {
+    font-family: 'HarmonyOS Sans SC';
+    src: url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Black.eot');
+    src: url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Black.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Black.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Black.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Black.svg#HarmonyOS_Sans_SC_Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Language */
+:lang(zh),
+:lang(Hani),
+:lang(CHS),
+:lang(Hans),
+:lang(zh-CN),
+:lang(zh-SG) {
+    font-family: 'HarmonyOS Sans SC', sans-serif;
+}
