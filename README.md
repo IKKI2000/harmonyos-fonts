@@ -41,3 +41,8 @@ GitHub Demo: [https://ikki2000.github.io/harmonyos-fonts/](https://ikki2000.gith
 | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_32x32.png" alt="IE"><br>IE | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_32x32.png" alt="Edge"><br>Edge | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_32x32.png" alt="Firefox"><br>Firefox | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_32x32.png" alt="Chrome"><br>Chrome | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_32x32.png" alt="Safari"><br>Safari | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_32x32.png" alt="Opera"><br>Opera | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/electron/electron_32x32.png" alt="Electron"><br>Electron |
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 9.0+ | 12.0+ | 3.5+ | 4.0+ | 3.2+ | 10.0+ | 1.0+ |
+
+## 🔗 相关链接 <small>Thanks for</small>
+
+* [HarmonyOS Developer 设计](https://developer.harmonyos.com/cn/design/)
+* [Transfonter](https://transfonter.org/)
