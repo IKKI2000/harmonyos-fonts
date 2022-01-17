@@ -22,5 +22,22 @@ GitHub Demo: [https://ikki2000.github.io/harmonyos-fonts/](https://ikki2000.gith
 [![码云仓库](https://img.shields.io/badge/码云仓库-%20-fff.svg?logo=Gitee&logoColor=c71d23&style=social)](https://gitee.com/IKKI2000/harmonyos-fonts/)
 [![Gitee Star](https://gitee.com/IKKI2000/harmonyos-fonts/badge/star.svg?theme=white)](https://gitee.com/IKKI2000/harmonyos-fonts/stargazers)
 [![Gitee Fork](https://gitee.com/IKKI2000/harmonyos-fonts/badge/fork.svg?theme=white)](https://gitee.com/IKKI2000/harmonyos-fonts/members)
+<br>
+![Internet Explorer](https://img.shields.io/badge/IE-9.0+-00bcf2.svg?logo=Internet%20Explorer&logoColor=fff)
+![Microsoft Edge](https://img.shields.io/badge/Edge-12.0+-037ad7.svg?logo=Microsoft%20Edge&logoColor=fff)
+![Firefox Browser](https://img.shields.io/badge/Firefox-3.5+-ff8b04.svg?logo=Firefox%20Browser&logoColor=fff)
+![Google Chrome](https://img.shields.io/badge/Chrome-4.0+-19a15f.svg?logo=Google%20Chrome&logoColor=fff)
+<br>
+![Safari](https://img.shields.io/badge/Safari-3.2+-05aee2.svg?logo=Safari&logoColor=fff)
+![Opera](https://img.shields.io/badge/Opera-10.0+-ff1b2d.svg?logo=Opera&logoColor=fff)
+![Electron](https://img.shields.io/badge/Electron-1.0+-9feaf9.svg?logo=Electron&logoColor=fff)
 
 </div>
+
+## 🌐 浏览器支持 <small>Browser Support</small>
+
+* IE9 及以上、现代浏览器、Electron 桌面应用、移动端
+
+| <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_32x32.png" alt="IE"><br>IE | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_32x32.png" alt="Edge"><br>Edge | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_32x32.png" alt="Firefox"><br>Firefox | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_32x32.png" alt="Chrome"><br>Chrome | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_32x32.png" alt="Safari"><br>Safari | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_32x32.png" alt="Opera"><br>Opera | <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/electron/electron_32x32.png" alt="Electron"><br>Electron |
+| :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
+| 9.0+ | 12.0+ | 3.5+ | 4.0+ | 3.2+ | 10.0+ | 1.0+ |
