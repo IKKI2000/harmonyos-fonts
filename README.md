@@ -23,6 +23,13 @@ GitHub Demo: [https://ikki2000.github.io/harmonyos-fonts/](https://ikki2000.gith
 [![Gitee Star](https://gitee.com/IKKI2000/harmonyos-fonts/badge/star.svg?theme=white)](https://gitee.com/IKKI2000/harmonyos-fonts/stargazers)
 [![Gitee Fork](https://gitee.com/IKKI2000/harmonyos-fonts/badge/fork.svg?theme=white)](https://gitee.com/IKKI2000/harmonyos-fonts/members)
 <br>
+![Thin](https://img.shields.io/badge/Thin-100-f1f3f5.svg?labelColor=0a59f7)
+![Light](https://img.shields.io/badge/Light-300-f1f3f5.svg?labelColor=0a59f7)
+![Regular](https://img.shields.io/badge/Regular-400-f1f3f5.svg?labelColor=0a59f7)
+![Medium](https://img.shields.io/badge/Medium-500-f1f3f5.svg?labelColor=0a59f7)
+![Bold](https://img.shields.io/badge/Bold-700-f1f3f5.svg?labelColor=0a59f7)
+![Black](https://img.shields.io/badge/Black-900-f1f3f5.svg?labelColor=0a59f7)
+<br>
 ![Internet Explorer](https://img.shields.io/badge/IE-9.0+-00bcf2.svg?logo=Internet%20Explorer&logoColor=fff)
 ![Microsoft Edge](https://img.shields.io/badge/Edge-12.0+-037ad7.svg?logo=Microsoft%20Edge&logoColor=fff)
 ![Firefox Browser](https://img.shields.io/badge/Firefox-3.5+-ff8b04.svg?logo=Firefox%20Browser&logoColor=fff)
@@ -34,6 +41,8 @@ GitHub Demo: [https://ikki2000.github.io/harmonyos-fonts/](https://ikki2000.gith
 
 </div>
 
+![Demo](https://gitee.com/IKKI2000/harmonyos-fonts/raw/main/demo.gif)
+
 ## 🌐 浏览器支持 <small>Browser Support</small>
 
 * IE9 及以上、现代浏览器、Electron 桌面应用、移动端
@@ -44,5 +53,5 @@ GitHub Demo: [https://ikki2000.github.io/harmonyos-fonts/](https://ikki2000.gith
 
 ## 🔗 相关链接 <small>Thanks for</small>
 
-* [HarmonyOS Developer 设计](https://developer.harmonyos.com/cn/design/)
+* [HarmonyOS Developer Design](https://developer.harmonyos.com/cn/design/)
 * [Transfonter](https://transfonter.org/)
