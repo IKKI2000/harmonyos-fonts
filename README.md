@@ -5,7 +5,7 @@
 
 # 🌌 HarmonyOS Fonts 🖖
 
-HarmonyOS Web Fonts~
+🚀 HarmonyOS Web Fonts~
 
 GitHub Demo: [https://ikki2000.github.io/harmonyos-fonts/](https://ikki2000.github.io/harmonyos-fonts/)
 
@@ -42,6 +42,14 @@ GitHub Demo: [https://ikki2000.github.io/harmonyos-fonts/](https://ikki2000.gith
 </div>
 
 ![Demo](https://gitee.com/IKKI2000/harmonyos-fonts/raw/main/demo.gif)
+
+## 🌟 特点 <small>Features</small>
+
+* 基于官方 HarmonyOS Sans
+* 支持中文、拉丁文、希利尔文、希腊文、阿拉伯文语系下的105种语言
+* 语言、文字的字体自适应
+* 字体的字重、字形自适应
+* 多种使用方式
 
 ## 🌐 浏览器支持 <small>Browser Support</small>
 
