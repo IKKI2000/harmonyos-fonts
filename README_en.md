@@ -48,7 +48,7 @@ Gitee Demo: [https://ikki2000.gitee.io/harmonyos-fonts/](https://ikki2000.gitee.
 ## 🌟 Features
 
 * Base on HarmonyOS Sans
-* Supports 105 languages under Chinese, Latin, Hillier, Greek, and Arabic languages
+* Supports 105 languages under Chinese, Latin, Cyrillic, Greek, and Arabic languages
 * Languages font self-adaptive
 * Font weight and style self-adaptive
 * Multiple ways to use
