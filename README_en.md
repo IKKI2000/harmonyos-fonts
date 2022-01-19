@@ -106,7 +106,7 @@ HarmonyOS_Sans_*/·······························�
 
 ## 📁 Font List
 
-### 1️⃣ HarmonyOS Sans SC
+### 3️⃣ HarmonyOS Sans SC
 
 Include: Han, Latin, Cyrillic, Greek, Japanese, Bopomofo, Symbols etc. **29051** characters
 
@@ -154,6 +154,54 @@ Include: Han, Latin, Cyrillic, Greek, Japanese, Bopomofo, Symbols etc. **29051**
 | Small Form Variants | U+FE50 ~ U+FE6F | 32 | 25 | 78.13% |
 | Halfwidth and Fullwidth Forms | U+FF00 ~ U+FFEF | 240 | 100 | 41.67% |
 | **Total:** |  | **39264** | **29051** | **73.99%** |
+
+### 4️⃣ HarmonyOS Sans TC
+
+Include: Han, Latin, Cyrillic, Greek, Japanese, Bopomofo, Symbols etc. **14595** characters
+
+| Unicode blocks | Unicode numbers | Total code count | Total charaters | Percent |
+| ----- | ----- | ----- | ----- | ----- |
+| Basic Latin | U+0000 ~ U+007F | 128 | 95 | 74.22% |
+| Latin-1 Supplement | U+0080 ~ U+00FF | 128 | 96 | 75% |
+| Latin Extended-A | U+0100 ~ U+017F | 128 | 128 | 100% |
+| Latin Extended-B | U+0180 ~ U+024F | 208 | 40 | 19.23% |
+| IPA Extensions | U+0250 ~ U+02AF | 96 | 4 | 4.17% |
+| Spacing Modifier Letters | U+02B0 ~ U+02FF | 80 | 14 | 17.5% |
+| Combining Diacritical Marks | U+0300 ~ U+036F | 112 | 17 | 15.18% |
+| Greek and Coptic | U+0370 ~ U+03FF | 144 | 76 | 52.78% |
+| Cyrillic | U+0400 ~ U+04FF | 256 | 129 | 50.39% |
+| Latin Extended Additional | U+1E00 ~ U+1EFF | 256 | 100 | 39.06% |
+| Greek Extended | U+1F00 ~ U+1FFF | 256 | 1 | 0.39% |
+| General Punctuation | U+2000 ~ U+206F | 112 | 38 | 33.93% |
+| Superscripts and Subscripts | U+2070 ~ U+209F | 48 | 18 | 37.5% |
+| Currency Symbols | U+20A0 ~ U+20CF | 48 | 14 | 29.17% |
+| Letterlike Symbols | U+2100 ~ U+214F | 80 | 9 | 11.25% |
+| Number Forms | U+2150 ~ U+218F | 64 | 26 | 40.63% |
+| Arrows | U+2190 ~ U+21FF | 112 | 8 | 7.14% |
+| Mathematical Operators | U+2200 ~ U+22FF | 256 | 40 | 15.63% |
+| Miscellaneous Technical | U+2300 ~ U+23FF | 256 | 1 | 0.39% |
+| Enclosed Alphanumerics | U+2460 ~ U+24FF | 160 | 50 | 31.25% |
+| Box Drawing | U+2500 ~ U+257F | 128 | 112 | 87.5% |
+| Block Elements | U+2580 ~ U+259F | 32 | 18 | 56.25% |
+| Geometric Shapes | U+25A0 ~ U+25FF | 96 | 16 | 16.67% |
+| Miscellaneous Symbols | U+2600 ~ U+26FF | 256 | 5 | 1.95% |
+| Miscellaneous Mathematical Symbols-A | U+27C0 ~ U+27EF | 48 | 2 | 4.17% |
+| Ideographic Description Characters | U+2FF0 ~ U+2FFF | 16 | 12 | 75% |
+| CJK Symbols and Punctuation | U+3000 ~ U+303F | 64 | 35 | 54.69% |
+| Hiragana | U+3040 ~ U+309F | 96 | 88 | 91.67% |
+| Katakana | U+30A0 ~ U+30FF | 96 | 93 | 96.88% |
+| Bopomofo | U+3100 ~ U+312F | 48 | 37 | 77.08% |
+| Enclosed CJK Letters and Months | U+3200 ~ U+32FF | 256 | 12 | 4.69% |
+| CJK Compatibility | U+3300 ~ U+33FF | 256 | 11 | 4.3% |
+| CJK Unified Ideographs Extension A | U+3400 ~ U+4DBF | 6592 | 1 | 0.02% |
+| CJK Unified Ideographs | U+4E00 ~ U+9FFF | 20992 | 13075 | 62.29% |
+| Private Use Area | U+E000 ~ U+F8FF | 6400 | 10 | 0.16% |
+| CJK Compatibility Ideographs | U+F900 ~ U+FAFF | 512 | 2 | 0.39% |
+| Vertical Forms | U+FE10 ~ U+FE1F | 16 | 10 | 62.5% |
+| CJK Compatibility Forms | U+FE30 ~ U+FE4F | 32 | 27 | 84.38% |
+| Small Form Variants | U+FE50 ~ U+FE6F | 32 | 25 | 78.13% |
+| Halfwidth and Fullwidth Forms | U+FF00 ~ U+FFEF | 240 | 100 | 41.67% |
+| **Total:** |  | **39136** | **14595** | **37.29%** |
 
 ## 🔗 Thanks for
 
