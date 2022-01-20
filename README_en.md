@@ -328,6 +328,21 @@ Include: Arabic, Latin, Symbols etc. **578** characters
 | Arabic Presentation Forms-B | U+FE70 ~ U+FEFF | 144 | 140 | 97.22% |
 | **Total:** |  | **1504** | **578** | **38.43%** |
 
+### 8️⃣ HarmonyOS Sans Naskh Arabic UI
+
+Include: Arabic, Latin, Symbols etc. **578** characters
+
+| Unicode blocks | Unicode numbers | Total code count | Total charaters | Percent |
+| ----- | ----- | ----- | ----- | ----- |
+| Basic Latin | U+0000 ~ U+007F | 128 | 31 | 24.22% |
+| Latin-1 Supplement | U+0080 ~ U+00FF | 128 | 7 | 5.47% |
+| Arabic | U+0600 ~ U+06FF | 256 | 139 | 54.3% |
+| Arabic Supplement | U+0750 ~ U+077F | 48 | 1 | 2.08% |
+| General Punctuation | U+2000 ~ U+206F | 112 | 23 | 20.54% |
+| Arabic Presentation Forms-A | U+FB50 ~ U+FDFF | 688 | 237 | 34.45% |
+| Arabic Presentation Forms-B | U+FE70 ~ U+FEFF | 144 | 140 | 97.22% |
+| **Total:** |  | **1504** | **578** | **38.43%** |
+
 ## 🔗 Thanks for
 
 * [HarmonyOS Developer Design](https://developer.harmonyos.com/cn/design/)
