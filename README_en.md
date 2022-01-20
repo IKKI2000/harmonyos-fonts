@@ -131,7 +131,7 @@ Include: Latin, Cyrillic, Greek, Symbols etc. **862** characters
 | Arrows | U+2190 ~ U+21FF | 112 | 8 | 7.14% |
 | Mathematical Operators | U+2200 ~ U+22FF | 256 | 41 | 16.02% |
 | Miscellaneous Mathematical Symbols-A | U+27C0 ~ U+27EF | 48 | 2 | 4.17% |
-| CJK Symbols and Punctuation | U+3000 ~ U+303F	 | 64 | 5 | 7.81% |
+| CJK Symbols and Punctuation | U+3000 ~ U+303F | 64 | 5 | 7.81% |
 | Katakana | U+30A0 ~ U+30FF | 96 | 1 | 1.04% |
 | **Total:** |  | **2720** | **862** | **31.69%** |
 
@@ -158,7 +158,34 @@ Include: Latin, Cyrillic, Greek, Symbols etc. **796** characters
 | Letterlike Symbols | U+2100 ~ U+214F | 80 | 7 | 8.75% |
 | Number Forms | U+2150 ~ U+218F | 64 | 26 | 40.63% |
 | Arrows | U+2190 ~ U+21FF | 112 | 8 | 7.14% |
-| Mathematical Operators | U+2200 ~ U+22FF	 | 256 | 8 | 3.13% |
+| Mathematical Operators | U+2200 ~ U+22FF | 256 | 8 | 3.13% |
+| CJK Symbols and Punctuation | U+3000 ~ U+303F | 64 | 4 | 6.25% |
+| **Total:** |  | **2576** | **796** | **30.9%** |
+
+### 3️⃣ HarmonyOS Sans Condensed
+
+Include: Latin, Cyrillic, Greek, Symbols etc. **796** characters
+
+| Unicode blocks | Unicode numbers | Total code count | Total charaters | Percent |
+| ----- | ----- | ----- | ----- | ----- |
+| Basic Latin | U+0000 ~ U+007F | 128 | 95 | 74.22% |
+| Latin-1 Supplement | U+0080 ~ U+00FF | 128 | 96 | 75% |
+| Latin Extended-A | U+0100 ~ U+017F | 128 | 128 | 100% |
+| Latin Extended-B | U+0180 ~ U+024F | 208 | 40 | 19.23% |
+| IPA Extensions | U+0250 ~ U+02AF | 96 | 4 | 4.17% |
+| Spacing Modifier Letters | U+02B0 ~ U+02FF | 80 | 9 | 11.25% |
+| Combining Diacritical Marks | U+0300 ~ U+036F | 112 | 3 | 2.68% |
+| Greek and Coptic | U+0370 ~ U+03FF | 144 | 74 | 51.39% |
+| Cyrillic | U+0400 ~ U+04FF | 256 | 129 | 50.39% |
+| Latin Extended Additional | U+1E00 ~ U+1EFF | 256 | 100 | 39.06% |
+| Greek Extended | U+1F00 ~ U+1FFF | 256 | 1 | 0.39% |
+| General Punctuation | U+2000 ~ U+206F | 112 | 32 | 28.57% |
+| Superscripts and Subscripts | U+2070 ~ U+209F | 48 | 18 | 37.5% |
+| Currency Symbols | U+20A0 ~ U+20CF | 48 | 14 | 29.17% |
+| Letterlike Symbols | U+2100 ~ U+214F | 80 | 7 | 8.75% |
+| Number Forms | U+2150 ~ U+218F | 64 | 26 | 40.63% |
+| Arrows | U+2190 ~ U+21FF | 112 | 8 | 7.14% |
+| Mathematical Operators | U+2200 ~ U+22FF | 256 | 8 | 3.13% |
 | CJK Symbols and Punctuation | U+3000 ~ U+303F | 64 | 4 | 6.25% |
 | **Total:** |  | **2576** | **796** | **30.9%** |
 
