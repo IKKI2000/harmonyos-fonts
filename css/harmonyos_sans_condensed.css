@@ -1,0 +1,309 @@
+@charset "UTF-8";
+/*!
+ * HarmonyOS Fonts v1.0.0 by IKKI - https://github.com/IKKI2000/
+ * Copyright 2021-2022 IKKI
+ * Released under the MIT License - https://ikki2000.github.io/harmonyos-fonts/LICENSE
+ */
+
+/* CSS for HarmonyOS Sans Condensed | Written by IKKI | 2022-01-20 */
+
+/* Thin */
+@font-face {
+    font-family: 'HarmonyOS Sans Condensed';
+    src: url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Thin.eot');
+    src: url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Thin.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Thin.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Thin.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Thin.svg#HarmonyOS_Sans_Condensed_Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Thin Italic */
+@font-face {
+    font-family: 'HarmonyOS Sans Condensed';
+    src: url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Thin_Italic.eot');
+    src: url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Thin_Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Thin_Italic.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Thin_Italic.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Thin_Italic.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Thin_Italic.svg#HarmonyOS_Sans_Condensed_Thin_Italic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Light */
+@font-face {
+    font-family: 'HarmonyOS Sans Condensed';
+    src: url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Light.eot');
+    src: url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Light.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Light.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Light.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Light.svg#HarmonyOS_Sans_Condensed_Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Light Italic */
+@font-face {
+    font-family: 'HarmonyOS Sans Condensed';
+    src: url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Light_Italic.eot');
+    src: url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Light_Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Light_Italic.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Light_Italic.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Light_Italic.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Light_Italic.svg#HarmonyOS_Sans_Condensed_Light_Italic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Regular */
+@font-face {
+    font-family: 'HarmonyOS Sans Condensed';
+    src: url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Regular.eot');
+    src: url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Regular.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Regular.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Regular.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Regular.svg#HarmonyOS_Sans_Condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Regular Italic */
+@font-face {
+    font-family: 'HarmonyOS Sans Condensed';
+    src: url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Regular_Italic.eot');
+    src: url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Regular_Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Regular_Italic.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Regular_Italic.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Regular_Italic.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Regular_Italic.svg#HarmonyOS_Sans_Condensed_Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Medium */
+@font-face {
+    font-family: 'HarmonyOS Sans Condensed';
+    src: url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Medium.eot');
+    src: url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Medium.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Medium.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Medium.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Medium.svg#HarmonyOS_Sans_Condensed_Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Medium Italic */
+@font-face {
+    font-family: 'HarmonyOS Sans Condensed';
+    src: url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Medium_Italic.eot');
+    src: url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Medium_Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Medium_Italic.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Medium_Italic.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Medium_Italic.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Medium_Italic.svg#HarmonyOS_Sans_Condensed_Medium_Italic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Bold */
+@font-face {
+    font-family: 'HarmonyOS Sans Condensed';
+    src: url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Bold.eot');
+    src: url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Bold.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Bold.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Bold.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Bold.svg#HarmonyOS_Sans_Condensed_Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Bold Italic */
+@font-face {
+    font-family: 'HarmonyOS Sans Condensed';
+    src: url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Bold_Italic.eot');
+    src: url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Bold_Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Bold_Italic.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Bold_Italic.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Bold_Italic.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Bold_Italic.svg#HarmonyOS_Sans_Condensed_Bold_Italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Black */
+@font-face {
+    font-family: 'HarmonyOS Sans Condensed';
+    src: url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Black.eot');
+    src: url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Black.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Black.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Black.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_Condensed/HarmonyOS_Sans_Condensed_Black.svg#HarmonyOS_Sans_Condensed_Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Black Italic */
+@font-face {
+    font-family: 'HarmonyOS Sans Condensed';
+    src: url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Black_Italic.eot');
+    src: url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Black_Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Black_Italic.woff2') format('woff2'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Black_Italic.woff') format('woff'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Black_Italic.ttf') format('truetype'),
+        url('../fonts/HarmonyOS_Sans_Condensed_Italic/HarmonyOS_Sans_Condensed_Black_Italic.svg#HarmonyOS_Sans_Condensed_Black_Italic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Language */
+:lang(Latn),
+:lang(af),
+:lang(asa),
+:lang(az),
+:lang(bem),
+:lang(bez),
+:lang(br),
+:lang(bs),
+:lang(ca),
+:lang(ceb),
+:lang(cgg),
+:lang(cs),
+:lang(cy),
+:lang(da),
+:lang(dav),
+:lang(de),
+:lang(dsb),
+:lang(dyo),
+:lang(ebu),
+:lang(en),
+:lang(eo),
+:lang(es),
+:lang(et),
+:lang(eu),
+:lang(fi),
+:lang(fil),
+:lang(fo),
+:lang(fr),
+:lang(fur),
+:lang(fy),
+:lang(ga),
+:lang(gd),
+:lang(gl),
+:lang(gsw),
+:lang(guz),
+:lang(gv),
+:lang(haw),
+:lang(hr),
+:lang(hsb),
+:lang(ia),
+:lang(id),
+:lang(is),
+:lang(it),
+:lang(jmc),
+:lang(jv),
+:lang(kam),
+:lang(kde),
+:lang(kea),
+:lang(kgp),
+:lang(ki),
+:lang(kl),
+:lang(kln),
+:lang(ksb),
+:lang(ksh),
+:lang(ku),
+:lang(kw),
+:lang(lb),
+:lang(lg),
+:lang(lkt),
+:lang(luo),
+:lang(luy),
+:lang(lv),
+:lang(mer),
+:lang(mfe),
+:lang(mg),
+:lang(mgh),
+:lang(mi),
+:lang(ms),
+:lang(mt),
+:lang(nd),
+:lang(nds),
+:lang(nl),
+:lang(nn),
+:lang(no),
+:lang(nyn),
+:lang(om),
+:lang(pcm),
+:lang(pt),
+:lang(qu),
+:lang(rm),
+:lang(rn),
+:lang(ro),
+:lang(rof),
+:lang(rw),
+:lang(rwk),
+:lang(saq),
+:lang(sbp),
+:lang(sc),
+:lang(se),
+:lang(seh),
+:lang(sg),
+:lang(sk),
+:lang(sl),
+:lang(smn),
+:lang(sn),
+:lang(so),
+:lang(sq),
+:lang(sr),
+:lang(su),
+:lang(sv),
+:lang(sw),
+:lang(teo),
+:lang(tk),
+:lang(to),
+:lang(tr),
+:lang(uz),
+:lang(vun),
+:lang(wae),
+:lang(wo),
+:lang(xh),
+:lang(xog),
+:lang(yrl),
+:lang(zu),
+:lang(Cyrl),
+:lang(az),
+:lang(be),
+:lang(bg),
+:lang(bs),
+:lang(kk),
+:lang(ky),
+:lang(mk),
+:lang(mn),
+:lang(ru),
+:lang(sr),
+:lang(tt),
+:lang(uk),
+:lang(uz),
+:lang(Grek),
+:lang(el) {
+    font-family: 'HarmonyOS Sans Condensed', sans-serif;
+}
