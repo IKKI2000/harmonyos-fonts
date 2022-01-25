@@ -79,8 +79,15 @@
                 <strong class="d-flex flex-column ps-3">网络字体演示<small class="fw-normal">Web Fonts Demo</small></strong>
             </h3>
             <div class="card flex-fill text-center mb-3">
-                <div class="card-header">
-                    <select class="form-select text-center" onchange="switchLang(this);"></select>
+                <div class="card-header p-2">
+                    <div class="row g-2">
+                        <div class="col-md-6">
+                            <select class="form-select" onchange="switchLang(this);"></select>
+                        </div>
+                        <div class="col-md-6">
+                            <input class="form-control" type="text" oninput="inputText(this);">
+                        </div>
+                    </div>
                 </div>
                 <div class="card-body d-flex flex-column justify-content-center align-items-center overflow-hidden">
                     <p class="s10 text-nowrap mb-0"></p>
@@ -161,8 +168,14 @@
                 } else {
                     $('#css').attr('href', 'css/harmonyos_sans.css');
                 }
+                $('.card-header input').val($(dom).find('option[value="' + $(dom).val() + '"]').attr('data-content'));
                 $.each($('p'), function (i, item) {
                     $(item).text($(dom).find('option[value="' + $(dom).val() + '"]').attr('data-content'));
+                });
+            }
+            function inputText(dom) {
+                $.each($('p'), function (i, item) {
+                    $(item).text($(dom).val());
                 });
             }
             function adjust(dom) {
