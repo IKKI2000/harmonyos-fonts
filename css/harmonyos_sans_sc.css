@@ -94,11 +94,12 @@
 }
 
 /* Language */
-:lang(zh),
-:lang(Hani),
-:lang(CHS),
 :lang(Hans),
+:lang(zh),
+:lang(CHS),
 :lang(zh-CN),
-:lang(zh-SG) {
+:lang(zh-SG),
+:lang(Jpan),
+:lang(ja) {
     font-family: 'HarmonyOS Sans SC', sans-serif;
 }
